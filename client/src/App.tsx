@@ -9,6 +9,7 @@ const App: React.FC = () => {
     <Router>
       <div>
         <div>
+          <h3>Fib Calculator</h3>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
         </div>
