@@ -9,7 +9,7 @@ const App: React.FC = () => {
     <Router>
       <div>
         <div>
-          <h3>Fib Calculator version 200</h3>
+          <h3>Fib Calculator version 15</h3>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
         </div>
